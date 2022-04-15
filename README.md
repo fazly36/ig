@@ -5,7 +5,7 @@
 # pkg install git
 # pip install requests
 # pip install futures
-# git clone https://github.com/MN4WN1-777/ignew
+# git clone https://github.com/fazly36/ig
 # cd ignew
 # git pull
 # python mnawn.py
